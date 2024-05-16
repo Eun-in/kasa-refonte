@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../src/app.scss"
+  ],
+  "names": [],
+  "mappings": "AAGA;EACE;EACA,OAJc;EAKd;EACA;EACA;EACA",
+  "file": "style.css"
+}

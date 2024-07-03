@@ -1,4 +1,4 @@
-import propTypes from "prop-types";
+// import propTypes from "prop-types";
 import { Link } from "react-router-dom";
 
 function Gallery({ housing }) {
@@ -10,8 +10,8 @@ function Gallery({ housing }) {
   ));
 }
 
-Gallery.propTypes = {
-  housing: propTypes.array.isRequired,
-};
+// Gallery.propTypes = {
+//   housing: propTypes.array.isRequired,
+// };
 
 export default Gallery;

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { MdOutlineKeyboardArrowUp } from "react-icons/md";
 
 const Collapse = ({ data, className, itemClass }) => {
-  console.log(data);
+  // console.log(data);
   const [selected, setSelected] = useState(null);
 
   const toggle = (i) => {
